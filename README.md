@@ -5,7 +5,7 @@
 - Curiosidades: Já fui um Design gráfico :shipit:	
 
 Possuo conhecimentos básicos em HTML, Css, Javascript e Python. 
-Estou buscando conhecer outras linguagens de programação além das já citadas com entusiasmo e dedidação, para iniciar alguns projetos pessoais.
+Estou buscando conhecer outras linguagens de programação além das já citadas com entusiasmo e dedicação, para iniciar alguns projetos pessoais.
 
 - Estou em Busca da minha primeira oportunidade de trabalho, para iniciar o meu crescimento e aperfeiçoamento na carreira de T.I
 ##
