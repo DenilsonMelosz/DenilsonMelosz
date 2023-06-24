@@ -48,8 +48,11 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 <div style="display: inline_block"><br/> 
 
 ![Denilson GitHub stats](https://github-readme-stats.vercel.app/api?username=DenilsonMelosz&theme=transparent&show_icons=true)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMelosz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 </div>
+
 [![Denilson github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenilsonMelosz&bg_color=ffffff&color=000000&line=0040ff&point=000000&area=true&hide_border=true)](https://github.com/denilsonmelosz/github-readme-activity-graph)
 
 
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
