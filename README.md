@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys,+My+Name+is+Denilson+Melo+de+Souza;I'm+21+years+old;I+am+from+Salvador,+BA;I+study+Software+Engineer;Be+Welcome!+:%40)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys,+My+Name+is+Denilson+Melo+de+Souza;I'm+21+years+old;I+am+from+Salvador,+BA;I+study+Software+Engineer;Be+Welcome!+:%40)](https://git.io/typing-svg)
 
 </div>
 <div style="display: inline_block" align="center">
@@ -19,7 +19,10 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 
 ### Agora que já me conhece um pouco, se desejar poderá entrar em contato comigo. 
 ##
-## Listas dos Meus contatos: :speech_balloon:
+<div style="display: inline_block" align="center">
+
+  ## Listas dos Meus contatos: :speech_balloon:
+</div>
 
 <div style="display: inline_block" align="center"><br/>
 
@@ -45,6 +48,7 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 <div style="display: inline_block"><br/> 
 
 ![Denilson GitHub stats](https://github-readme-stats.vercel.app/api?username=DenilsonMelosz&theme=transparent&show_icons=true)
+</div>
 [![Denilson github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenilsonMelosz&bg_color=ffffff&color=000000&line=0040ff&point=000000&area=true&hide_border=true)](https://github.com/denilsonmelosz/github-readme-activity-graph)
 
 
