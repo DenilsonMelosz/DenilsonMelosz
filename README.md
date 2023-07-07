@@ -26,7 +26,7 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 
 <div style="display: inline_block" align="center"><br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/denilson-melo-bb6861239)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-melo-bb6861239/)
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EzHncWNj)
