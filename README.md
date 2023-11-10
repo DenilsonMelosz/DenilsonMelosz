@@ -54,5 +54,17 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 
 [![Denilson github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenilsonMelosz&bg_color=ffffff&color=000000&line=0040ff&point=000000&area=true&hide_border=true)](https://github.com/denilsonmelosz/github-readme-activity-graph)
 
+<div align="center" dir="auto">
+    <br>
+    <p align="center" dir="auto">
+        <b> Legal, Deixar eu lhe contar? Você faz parte da Galera que visita meu perfil. 😀 </b>
+  </p>  
+    <p align="center" dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a42247b496aab4cbfa794cccc5b4084db74876d26fb7a4b888b0eeba23aec51/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b477569436861766573446576656c6f7065727d2f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/9a42247b496aab4cbfa794cccc5b4084db74876d26fb7a4b888b0eeba23aec51/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b477569436861766573446576656c6f7065727d2f636f756e742e737667" alt="Legal, Deixar eu lhe contar? Você faz parte da Galera que visita meu perfil" data-canonical-src="https://profile-counter.glitch.me/{DenilsonMelosz}/count.svg" style="max-width: 100%;"></a>
+    </p> 
+<br>
+</div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
