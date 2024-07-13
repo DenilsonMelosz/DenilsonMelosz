@@ -59,10 +59,7 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
     <p align="center" dir="auto">
         <b> Que Legal, Deixar eu lhe contar algo? Você faz parte da Galera que visita meu perfil 😀 </b>
   </p>  
-    <p align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9a42247b496aab4cbfa794cccc5b4084db74876d26fb7a4b888b0eeba23aec51/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b477569436861766573446576656c6f7065727d2f636f756e742e737667"><img align="center" src="https://camo.githubusercontent.com/9a42247b496aab4cbfa794cccc5b4084db74876d26fb7a4b888b0eeba23aec51/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b477569436861766573446576656c6f7065727d2f636f756e742e737667" alt="Que Legal, Deixar eu lhe contar algo? Você faz parte da Galera que visita meu perfil" data-canonical-src="https://profile-counter.glitch.me/{DenilsonMelosz}/count.svg" style="max-width: 100%;"></a>
-    </p> 
-<br>
+   <br>
 </div>
 
 
