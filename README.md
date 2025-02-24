@@ -1,60 +1,58 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center"> 
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello+Guys,+My+Name+is+Denilson+Melo+de+Souza;I'm+22+years+old;I+am+from+Salvador,+BA;I+study+Software+Engineer;Be+Welcome!+:%40)](https://git.io/typing-svg)
+  ### See me 👀
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=30&center=true&vCenter=true&width=1000&lines=Hello+Guys;I'm+23+years+old;Software+Engineer;Be+Welcome!)](https://git.io/typing-svg)
 
 </div>
 <div style="display: inline_block" align="center">
 
-### ``` print("Persistence leads to success")🚀 ``` 
+## ```print("Persistence leads to success")🚀 ```  
 
 <br/></div>
 
-### Contact me <img src="https://cdn-icons-mp4.flaticon.com/512/17122/17122569.mp4" width="50" height="50">
-
 <div style="display: inline_block" align="center">
 
-  ## Listas dos Meus contatos: :speech_balloon:
-</div>
+### Contact me 📫 [![GitHub Denis](https://img.shields.io/github/followers/DenilsonMelosz?label=follow&style=social)](https://github.com/DenilsonMelosz)
 
-<div style="display: flex" align="center"><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-melo-bb6861239/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#FFFFFF)](mailto:denis.mello.souza@gmail.com)
+
+<br/>
+
+  ### Code | Stacks 💻
+
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Goland" src="https://img.shields.io/badge/GoLand-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EzHncWNj)
+<br/><br/>
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denilson_mello.sz/)
-
+## Stats and Activity 📊
 </div>
 
-
-### Minhas Linguagens de progamação/Tecnologias (My Tools)
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="css" heiht=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /><img align="center" alt="css" heiht=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img align="center" alt="css" heiht=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img align="center" alt="css" heiht=100 width=100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="css" heiht=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />      
-          
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenilsonMelosz&show_icons=true&theme=highcontrast&hide_border=true" height="180" alt="Static GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DenilsonMelosz&layout=compact&theme=highcontrast&hide_border=true" height="180" alt="Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenilsonMelosz&theme=dark&hide_border=true" alt="GitHub Streak"/></a>
 </div>
 
-##
-
-
-<div style="display: inline_block"><br/> 
-
-![Denilson GitHub stats](https://github-readme-stats.vercel.app/api?username=DenilsonMelosz&theme=transparent&show_icons=true)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonMelosz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
-</div>
-
-[![Denilson github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenilsonMelosz&bg_color=ffffff&color=000000&line=0040ff&point=000000&area=true&hide_border=true)](https://github.com/denilsonmelosz/github-readme-activity-graph)
 
 <div align="center" dir="auto">
-    <br>
-    <p align="center" dir="auto">
-        <b> Que Legal, Deixar eu lhe contar algo? Você faz parte da Galera que visita meu perfil 😀 </b>
-  </p>  
-   <br>
+  
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br/>
+
+  <img src="https://profile-counter.glitch.me/DenilsonMelosz/count.svg?" alt="Visitor" />
+</div
+
 </div>
 
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
