@@ -5,26 +5,18 @@
 </div>
 <div style="display: inline_block" align="center">
 
-##   😀 Tudo bem com vocês? Espero que sim!  
+### ``` print("Persistence leads to success")🚀 ``` 
+
 <br/></div>
 
-- Meu nome é Denilson Melo. :trollface:	 	
-- Atualmente estou iniciando a faculdade, Cursando Engenharia de Software (UCSAL).  
-- Curiosidades: Já fui um Design gráfico :shipit:	
+### Contact me <img src="https://cdn-icons-mp4.flaticon.com/512/17122/17122569.mp4" width="50" height="50">
 
-Possuo conhecimentos básicos em Java , HTML, Css e Javascript.
-Estou buscando conhecer outras linguagens de programação além das já citadas com entusiasmo e dedicação, para iniciar alguns projetos pessoais.
-
-- Estou em Busca da minha primeira oportunidade de trabalho, para iniciar o meu crescimento e aperfeiçoamento na carreira de T.I
-
-### Agora que já me conhece um pouco, se desejar poderá entrar em contato comigo. 
-##
 <div style="display: inline_block" align="center">
 
   ## Listas dos Meus contatos: :speech_balloon:
 </div>
 
-<div style="display: inline_block" align="center"><br/>
+<div style="display: flex" align="center"><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-melo-bb6861239/)
 
@@ -44,6 +36,7 @@ Estou buscando conhecer outras linguagens de programação além das já citadas
 </div>
 
 ##
+
 
 <div style="display: inline_block"><br/> 
 
